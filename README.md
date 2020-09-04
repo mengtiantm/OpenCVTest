@@ -28,3 +28,4 @@ ImageProcess
 4.4图像伪彩
 
 4.5图像融合
+![image](https://github.com/mengtiantm/OpenCVTest/blob/master/ResultImage/Fusion.png)
