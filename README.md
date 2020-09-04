@@ -20,12 +20,27 @@ ImageProcess
 4.各种功能效果图
 
 4.1图像平滑
+高斯低通滤波
+![image](https://github.com/mengtiantm/OpenCVTest/blob/master/ResultImage/Gaussian3x3.png)
 
 4.2图像锐化
+拉普拉斯高通滤波
+3x3:
+![image](https://github.com/mengtiantm/OpenCVTest/blob/master/ResultImage/Laplacian3x3.png)
+5x5:
+![image](https://github.com/mengtiantm/OpenCVTest/blob/master/ResultImage/Laplacian5x5.png)
+
+锐化滤波
+3x3:
+![image](https://github.com/mengtiantm/OpenCVTest/blob/master/ResultImage/Sharpening3x3.png)
+5x5:
+![image](https://github.com/mengtiantm/OpenCVTest/blob/master/ResultImage/Sharpening5x5.png)
 
 4.3图像减影
+![image](https://github.com/mengtiantm/OpenCVTest/blob/master/ResultImage/Subtract.png)
 
 4.4图像伪彩
+![image](https://github.com/mengtiantm/OpenCVTest/blob/master/ResultImage/PseudoColor.png)
 
 4.5图像融合
 ![image](https://github.com/mengtiantm/OpenCVTest/blob/master/ResultImage/Fusion.png)
